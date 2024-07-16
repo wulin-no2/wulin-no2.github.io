@@ -32,21 +32,6 @@
     <loc>https://wulin-no2.github.io/posts/tech/</loc>
     <lastmod>2024-07-03T15:55:23+08:00</lastmod>
   </url><url>
-    <loc>https://wulin-no2.github.io/categories/</loc>
-    <lastmod>2024-07-03T15:55:23+08:00</lastmod>
-  </url><url>
-    <loc>https://wulin-no2.github.io/tags/git/</loc>
-    <lastmod>2024-07-03T15:55:23+08:00</lastmod>
-  </url><url>
-    <loc>https://wulin-no2.github.io/posts/tech/tech1/</loc>
-    <lastmod>2024-07-03T15:55:23+08:00</lastmod>
-  </url><url>
-    <loc>https://wulin-no2.github.io/tags/tech/</loc>
-    <lastmod>2024-07-03T15:55:23+08:00</lastmod>
-  </url><url>
-    <loc>https://wulin-no2.github.io/categories/tech/</loc>
-    <lastmod>2024-07-03T15:55:23+08:00</lastmod>
-  </url><url>
     <loc>https://wulin-no2.github.io/tags/life/</loc>
     <lastmod>2024-05-05T00:18:15+08:00</lastmod>
   </url><url>
@@ -55,6 +40,9 @@
   </url><url>
     <loc>https://wulin-no2.github.io/posts/life/</loc>
     <lastmod>2024-05-05T00:18:15+08:00</lastmod>
+  </url><url>
+    <loc>https://wulin-no2.github.io/tags/tech/</loc>
+    <lastmod>2024-05-05T00:17:58+08:00</lastmod>
   </url><url>
     <loc>https://wulin-no2.github.io/posts/tech/tech/</loc>
     <lastmod>2024-05-05T00:17:58+08:00</lastmod>
@@ -68,6 +56,8 @@
     <loc>https://wulin-no2.github.io/archives/</loc>
   </url><url>
     <loc>https://wulin-no2.github.io/search/</loc>
+  </url><url>
+    <loc>https://wulin-no2.github.io/categories/</loc>
   </url><url>
     <loc>https://wulin-no2.github.io/series/</loc>
   </url>
