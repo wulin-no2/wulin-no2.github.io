@@ -3,7 +3,7 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - master  # 或者你的主分支名称
+      - master  # main branch name
 
 jobs:
   deploy:

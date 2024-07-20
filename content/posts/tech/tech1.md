@@ -13,7 +13,7 @@ tags:
 description: "git commands"
 weight:
 slug: ""
-draft: true # 是否为草稿
+draft: false # 是否为草稿
 comments: true
 reward: false # 打赏
 mermaid: false # 是否开启mermaid

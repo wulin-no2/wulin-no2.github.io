@@ -52,7 +52,7 @@ menu:
     #   url: tags
     #   weight: 15
     - identifier: archives
-      name: ⏱️ Archives
+      name: ⏱️ Archive
       url: archives/
       weight: 20
     # - identifier: links
