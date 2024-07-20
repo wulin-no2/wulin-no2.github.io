@@ -6,7 +6,16 @@
     <description>Recent content on Lina&#39;s Playground</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jul 2024 00:18:23 +0800</lastBuildDate><atom:link href="https://wulin-no2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Jul 2024 00:17:58 +0800</lastBuildDate><atom:link href="https://wulin-no2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Common Git Operations for Developer Beginners</title>
+      <link>https://wulin-no2.github.io/posts/tech/tech/</link>
+      <pubDate>Sat, 20 Jul 2024 00:17:58 +0800</pubDate>
+      
+      <guid>https://wulin-no2.github.io/posts/tech/tech/</guid>
+      <description>New Branch git checkout -b feature/music-api Switch Branch git checkout dev Merge a Branch into the dev Branch Fetch the Latest Changes: Ensure your local repository is up to date with the remote repository. git fetch origin Switch to the dev Branch: Make sure you are on the dev branch. git checkout dev Merge the feature/music-api Branch into dev. git merge feature/music-api Commit the Merge. git commit Push the Changes. git push origin dev Delete a Branch Delete the Local Branch. git branch -d feature/music-api Delete the Remote Branch. git push origin --delete feature/music-api Interact with Remote Repo Discard All Local Changes and Pull from Remote Repo: git reset --hard git pull Back to a Previous Commit: git reset --hard 1dab19813ff616774c76366309213a3c8a468e42 git push origin dev --force Pull dev Code into the Current Branch to Update the Current Branch Check Out</description>
+    </item>
+    
     <item>
       <title>How to retire before 40?</title>
       <link>https://wulin-no2.github.io/posts/blog/blog/</link>
@@ -26,21 +35,21 @@
     </item>
     
     <item>
+      <title>Git commands beginners often use</title>
+      <link>https://wulin-no2.github.io/posts/tech/tech1/</link>
+      <pubDate>Wed, 03 Jul 2024 15:55:23 +0800</pubDate>
+      
+      <guid>https://wulin-no2.github.io/posts/tech/tech1/</guid>
+      <description>git commands</description>
+    </item>
+    
+    <item>
       <title>Summer Life</title>
       <link>https://wulin-no2.github.io/posts/life/life/</link>
       <pubDate>Sun, 05 May 2024 00:18:15 +0800</pubDate>
       
       <guid>https://wulin-no2.github.io/posts/life/life/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Tech demo</title>
-      <link>https://wulin-no2.github.io/posts/tech/tech/</link>
-      <pubDate>Sun, 05 May 2024 00:17:58 +0800</pubDate>
-      
-      <guid>https://wulin-no2.github.io/posts/tech/tech/</guid>
-      <description>coding demo</description>
     </item>
     
     <item>
