@@ -43,10 +43,10 @@ menu:
     #   name: 🏠 Home
     #   url: /
     #   weight: 2
-    - identifier: posts
-      name: 📚 Blog
-      url: posts
-      weight: 3
+    # - identifier: posts
+    #   name: 📚 Blog
+    #   url: posts
+    #   weight: 3
     # - identifier: tags
     #   name: 🧩 Tags
     #   url: tags
