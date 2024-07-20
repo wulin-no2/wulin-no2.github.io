@@ -25,7 +25,7 @@ disableShare: true # 底部不显示分享栏
 showbreadcrumbs: true #顶部显示路径
 cover:
     # image: "https://www.sulvblog.cn/posts/blog/how_to_write_a_blog/1.png" #图片路径例如：posts/tech/123/123.png
-    image: "https:wulin-no2.github.io/posts/tech/tech0_git/img.png" #图片路径例如：posts/tech/123/123.png
+    image: "posts/tech/tech0_git/img.png" #图片路径例如：posts/tech/123/123.png
     # caption: "git article background" #图片底部描述
     alt: "git article background"
     relative: false
