@@ -1,14 +1,18 @@
 ---
-title: "How to retire before 40?"
-date: 2024-07-15T00:18:23+08:00
-lastmod: 2024-07-15T00:18:23+08:00
+title: "Project 1 - Det Quick"
+date: 2024-07-05T00:18:06+08:00
+lastmod: 2024-07-05T00:18:06+08:00
 author: ["Lina"]
 keywords: 
 - 
 categories: 
 - 
 tags: 
-- blog
+- project
+- react
+- javascript
+- frontend
+- springBoot
 description: ""
 weight:
 slug: ""
@@ -27,7 +31,7 @@ cover:
     alt: ""
     relative: false
 ---
-
+### under constructed..
 
 
 

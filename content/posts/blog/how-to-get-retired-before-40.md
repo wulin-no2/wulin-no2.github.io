@@ -1,14 +1,16 @@
 ---
-title: "Project 1 - Det Quick"
-date: 2024-07-05T00:18:06+08:00
-lastmod: 2024-07-05T00:18:06+08:00
+title: "How to get retired before 40?"
+date: 2024-07-21T00:18:23+08:00
+lastmod: 2024-07-21T00:18:23+08:00
 author: ["Lina"]
 keywords: 
 - 
 categories: 
 - 
 tags: 
-- project
+- FIRE
+- financial
+- retire
 description: ""
 weight:
 slug: ""
@@ -27,7 +29,7 @@ cover:
     alt: ""
     relative: false
 ---
-
+### under constructed..
 
 
 
