@@ -7,9 +7,9 @@
         <a target="_blank" href="{{ .Permalink }}" style="box-shadow: none">{{ .Title }}</a>
     </div>
     <span style="font-size: 14px; color: #999">
-        日期: {{ .Date.Format ( default "2006-01-02") }}
+        Date: {{ .Date.Format ( default "2006-01-02") }}
         {{ if .Params.tags }}&nbsp;
-        标签:
+        Tag:
         {{ range .Params.tags }}
             #{{ . }}&nbsp;
         {{ end }}

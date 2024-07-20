@@ -1,5 +1,5 @@
 baseURL: https://wulin-no2.github.io/ # 绑定的域名
-languageCode: en # en-us
+languageCode: en-us # en-us
 title: Lina's Playground
 theme: hugo-PaperMod  # 主题名字，和themes文件夹下的一致
 
@@ -26,7 +26,7 @@ permalinks: # 访问博客时网址的显示形式
   post: "/:title/"
   # post: "/:year/:month/:day/:title/"
 
-defaultContentLanguage: zh # 最顶部首先展示的语言页面
+# defaultContentLanguage: zh # 最顶部首先展示的语言页面
 defaultContentLanguageInSubdir: false
 
 menu:
@@ -110,11 +110,11 @@ params:
     imageHeight: 150
     buttons:
       - name: 💰 FIRE
-        url: posts/blog
+        url: posts/fire
       - name: 👩🏻‍💻 Tech
         url: posts/tech
-      - name: 🧱 Projects
-        url: posts/read
+      - name: 🧱 Project
+        url: posts/project
       - name: 🏖 Life
         url: posts/life
 
