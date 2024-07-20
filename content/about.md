@@ -26,6 +26,14 @@ cover:
 
 |           |                    |
 | --------- | ------------------ |
-| Name:   | Lina Wu              |
-| Occupation:     | Developer, Growth Hacker, Fire Blogger  |
-| Hobbies:     | 😴Sleeping  🏔️Hiking  ✍🏻Writing  Grabbing a ☕ with anyone |
+| Name:   | <b>Lina Wu</b>              |
+| Identification:     | Developer, Growth Hacker, Fire Blogger.  |
+| Hobbies:     | 😴 Sleeping  🏔️ Hiking  ✍🏻 Writing  💭 Cartoon  ✈️ Traveling|
+|              | Grabbing a ☕ with anyone. |
+| Personality:       | ADHD but quite smart 😛.  ENTP but enjoy staying alone 🛏️.|
+| Food:        | 🍉 🥥 🍑 🍌 🌽 🥬 🍔 🍖 🥐 🍱 🍨 🍫 🍻 🧋 ☕|
+| Places I love:      | 🇯🇵 🇬🇧 🇹🇭 🇭🇰 🇮🇹 🇩🇪 🇦🇷|
+| <b>Now:</b>   | 👏 Start a tech business with friends, as <b>co-founder</b>. |
+|          | 💻 Working on a full-stack product about language learning with <b>React</b> and <b>SpringBoot</b>. |
+|          | 🇮🇪 Living in Galway, <b>Ireland</b>. |
+|          | 🇩🇪 Go to Berlin, Germany in August. |
